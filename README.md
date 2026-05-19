@@ -38,7 +38,7 @@ Every agent in the crew uses it.
 
 ## Other frameworks
 
-- [ainfera-openai-compat](https://github.com/ainfera-ai/ainfera-openai-compat) — universal wedge (no framework)
+- [ainfera-openai-compatible](https://github.com/ainfera-ai/ainfera-openai-compatible) — universal wedge (no framework)
 - [ainfera-langchain](https://github.com/ainfera-ai/ainfera-langchain) — LangChain
 - [ainfera-google-adk](https://github.com/ainfera-ai/ainfera-google-adk) — Google ADK
 - [ainfera-mcp](https://github.com/ainfera-ai/ainfera-mcp) — Claude Desktop + Cursor
