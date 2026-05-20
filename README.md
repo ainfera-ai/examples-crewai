@@ -1,7 +1,6 @@
-# ainfera-crewai — Ainfera + CrewAI
+# ainfera-crewai — CrewAI + Ainfera Routing
 
-Multi-agent content team backed by Ainfera. Two agents, two tasks, one
-audit chain.
+CrewAI integration + Ainfera Routing. Multi-agent crew with one audit chain — 2 env vars.
 
 ## Quickstart
 
@@ -17,7 +16,7 @@ python main.py
 
 - Multi-agent flows audited end-to-end (researcher → writer)
 - One Agent Card across providers (L1)
-- Drain-proof wallet — survives prompt injection (L3)
+- Routed inference with per-call budget caps (L3)
 - Hash-chained receipts per call (L4)
 
 > EU AI Act Annex IV ready — every call hash-chained, signed, exportable.
